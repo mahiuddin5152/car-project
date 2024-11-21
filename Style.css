@@ -1,0 +1,115 @@
+
+
+.card-body{
+   border-radius: 3px;
+}
+#ab-us{
+  width: 450px;
+  height: 250px;
+}
+
+#ser-gal{
+  height: 210px;
+  border-radius: 3px;
+}
+#footer{
+	 
+   	border-top: 2px solid /* #D6CCCA */ #FCB334  ;
+
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+
+    background:/*  #F72EC3  */ #742E5A;
+    opacity:100%;
+}
+input{
+  width: 100%;
+}
+
+
+
+#icon1{
+  font-size: 35px;
+  margin-left: 20px;
+  color: #4867AA;
+}
+#icon2{
+  font-size: 35px;
+  margin-left: 20px;
+  color: #0178F6;
+}
+
+#icon3{
+  font-size: 35px;
+  margin-left: 20px;
+  color: #28C44C;
+}
+#icon4{
+  font-size: 35px;
+  margin-left: 20px;
+  color: #1DA1F2;
+}
+
+.modal1{
+	margin: 50px' 
+}
+#row1{
+	margin-left: 200px;
+
+
+}
+.modal-content{
+	border: 3px solid white;
+}
+.modal-content{
+	opacity: 90%;
+}
+
+
+
+
+
+table.tabone{
+
+	border-collapse: separate;
+	border-spacing: 0px 2px;
+ 	margin-left: 5px;
+}
+
+tr{
+ 
+ 
+margin: 10px;
+ 
+border-radius: 5px;
+ 
+}
+#modal1{
+	margin: 50px; 
+
+
+}
+
+#container1{
+  max-width: 600px;
+  width: 100%;
+
+  margin: 0 auto;
+}
+#lottie{
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  display: block;
+  overflow: hidden;
+  transform: translate3d(0, 0, 0);
+  text-align: center;
+  opacity: 1;
+
+}
+ 
+ 
+ 
+	 
+ 
+ 
